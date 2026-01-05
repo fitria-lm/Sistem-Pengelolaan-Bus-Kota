@@ -7,7 +7,6 @@ Program **Sistem Pengelolaan Bus Kota** adalah aplikasi berbasis console yang di
 1. **Graph** - Untuk merepresentasikan jaringan halte dan rute bus
 2. **Binary Search Tree (BST)** - Untuk menyimpan data armada bus
 3. **Linked List** - Untuk mengelola jadwal keberangkatan bus
-4. **Queue & Stack** - Untuk algoritma traversal dan pencarian
 
 ## 🚀 Fitur Utama
 
